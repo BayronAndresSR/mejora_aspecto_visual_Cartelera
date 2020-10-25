@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="peliculas_img">
+        <item>@drawable/anillos</item>
+        <item>@drawable/lamosca</item>
+        <item>@drawable/nemo</item>
+        <item>@drawable/sin_perdon</item>
+        <item>@drawable/ciudad_dios</item>
+        <item>@drawable/hableconella</item>
+        <item>@drawable/elcielosobre</item>
+        <item>@drawable/lamiradadeulises</item>
+    </integer-array>
+</resources>

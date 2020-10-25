@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="ver_detalles">Ver detalles</string>
+    <string name="lista_de_peliculas">CARTELERA DE PELICULAS</string>
+    <string name="pelicula_1">SEÑOR DE LOS ANILLOS</string>
+    <string name="pelicula_2">LA MOSCA</string>
+    <string name="pelicula_3">BUSCANDO A NEMO</string>
+    <string name="pelicula_4">SIN PERDON</string>
+    <string name="pelicula_5">CIUDAD DE DIOS</string>
+    <string name="pelicula_6">HABLE CON ELLA</string>
+    <string name="pelicula_7">EL CIELO SOBRE BERLIN</string>
+    <string name="pelicula_8">LA MIRADA DE ULISES</string>
+
+    <string name="genero_1">AVENTURAS</string>
+    <string name="genero_2">TERROR</string>
+    <string name="genero_3">DRAMA</string>
+    <string name="genero_4">POLICIACA</string>
+
+    <string name="web_1">https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_la_Comunidad_del_Anillo</string>
+    <string name="web_2">https://es.wikipedia.org/wiki/La_mosca_(pel%C3%ADcula_de_1986)</string>
+    <string name="web_3">https://es.wikipedia.org/wiki/Buscando_a_Nemo</string>
+    <string name="web_4">https://es.wikipedia.org/wiki/Unforgiven_(pel%C3%ADcula)</string>
+    <string name="web_5">https://es.wikipedia.org/wiki/Ciudad_de_Dios</string>
+    <string name="web_6">https://es.wikipedia.org/wiki/Hable_con_ella</string>
+    <string name="web_7">https://es.wikipedia.org/wiki/Tengo_ganas_de_ti_(pel%C3%ADcula)</string>
+    <string name="web_8">https://es.wikipedia.org/wiki/La_mirada_de_Ulises</string>
+
+    <string name="descripcion_1">En el anterior episodio dejamos a la Comunidad del Anillo desmembrada en su intento de cumplir la misión que se les encomendó. Cada uno de sus miembros intenta hacer frente a su destino, que no es otro que el de salvar a la Tierra Media de las fuerzas del Señor Oscuro.</string>
+    <string name="descripcion_2"> El científico, Jeff Bundle ha inventado un aparato capaz de teletransportar todo tipo de objetos gracias a un sistema de desintegración y recuperación de moléculas. Sin embargo, le falta por hacer un último experimento: si puede funcionar con seres humanos. Decide hacer él mismo la prueba.</string>
+    <string name="descripcion_3"> Marlin es un pez payaso que se acaba de trasladar a vivir con su esposa a un lugar tranquilo cercano a la gran Barrera del Coral.</string>
+    <string name="descripcion_4">   En 1881 en Big Whiskey, Wyoming, dos vaqueros — Quick Mike (David Mucci) y "Davey-Boy" Bunting (Rob Campbell) — atacan y desfiguran a la prostituta Delilah Fitzgerald (Anna Levine) con un cuchillo después de que ella se ríe del tamaño del pene de Quick Mike. Como castigo, el alguacil local "Little Bill" Daggett (Gene Hackman) ordena a los vaqueros que traigan varios caballos como compensación para el dueño del burdel, Skinny Dubois (Anthony James) . El resto de las prostitutas están indignadas por la decisión del sheriff y ofrecen una recompensa de $ 1,000 a cualquiera que mate a los vaqueros.</string>
+    <string name="descripcion_5">Buscapé tiene 11 años y vive en Ciudad de Dios, un suburbio de Río de Janeiro. A pesar que la vida en este barrio está dominada por robos, peleas y enfrentamientos diarios con la policía, Buscapé prefiere quedarse al margen.</string>
+    <string name="descripcion_6"> "Hable con ella" es la historia de amistad de dos hombres enamorados de dos mujeres que están en coma profundo por diversas razones. Benigno (Javier Cámara) es el enfermero personal de Alicia (Leonor Watling), una bailarina de clásico que entró en coma hace cuatro años y vive, literalmente, para cuidarla. La baña, la peina, la maquilla y por encima de todo, no para de hablar con ella.</string>
+    <string name="descripcion_7"> Dos ángeles guardianes tienen adjudicada la ciudad de Berlín, cuando existe todavía el Muro. Están allí desde el final de la Segunda Guerra Mundial, sin poder cambiar el curso de las cosas, llenos de compasión e impotencia.</string>
+    <string name="descripcion_8">  La historia se sitúa en la guerra de Bosnia, y es considerada por muchos seguidores de Theo su mejor película.
+Un cineasta griego regresa a su ciudad natal para emprender un viaje en busca de tres bobinas sin revelar que contienen la mirada inocente de los pioneros del cine griego, la primera mirada. Se trata pues de un viaje a los orígenes del cine. Durante el viaje Theo retrata poéticamente la vieja Europa.</string>
+
+
+
+
+
+
+</resources>
